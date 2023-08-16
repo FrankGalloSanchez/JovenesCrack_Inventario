@@ -1,0 +1,25 @@
+body,html{
+	height: 100%;
+	width: 100%;
+	background-image: url('rhttps://img.freepik.com/vector-premium/fondo-vector-monocromo-blanco-abstracto-folleto-diseno-folleto-sitio-web-fondo-pantalla-blanco-geometrico-pagina-inicio-presentacion-certificado_249611-6006.jpg');
+}
+.main-container{
+	height: 100%;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.main-container > .login,
+.main-container > .hero-body{
+	height: auto;
+	width: 100%;
+	max-width: 400px;
+	min-width: 300px;
+}
+
+.form-inline{
+	display: inline-flex;
+}
+
+  
