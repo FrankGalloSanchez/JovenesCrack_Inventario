@@ -1,7 +1,12 @@
-<div class="container is-fluid mb-6">
-    <h1 class="title">Usuarios</h1>
-    <h2 class="subtitle">Buscar usuario</h2>
-</div>
+<figure class="text-center">
+  <blockquote class="blockquote">
+    <p>USUARIO</p>
+    <p>BUSCAR USUARIO</p>
+  </blockquote>
+  <figcaption class="blockquote-footer">
+    Jovenes crack <cite title="Título fuente">Mas que un club</cite>
+  </figcaption>
+</figure>
 
 <div class="container pb-6 pt-6">
     <?php

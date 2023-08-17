@@ -1,7 +1,12 @@
-<div class="container is-fluid mb-6">
-    <h1 class="title">Categorías</h1>
-    <h2 class="subtitle">Lista de categoría</h2>
-</div>
+<figure class="text-center">
+  <blockquote class="blockquote">
+    <p>CATEGORIA</p>
+    <p>LISTA DE CATEGORIA</p>
+  </blockquote>
+  <figcaption class="blockquote-footer">
+    Jovenes crack <cite title="Título fuente">Mas que un club</cite>
+  </figcaption>
+</figure>
 
 <div class="container pb-6 pt-6">
     <?php

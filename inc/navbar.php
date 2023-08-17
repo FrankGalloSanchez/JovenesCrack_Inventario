@@ -1,18 +1,16 @@
 <nav class="navbar" role="navigation" aria-label="main navigation">
 
-    <div class="navbar-brand">
-        <a class="navbar-item" href="index.php?vista=home">
-        <img src="./img/TRANSPARENTE.png" width="20" height="500">
-        </a>
 
+    <a class="navbar-brand text-center" href="index.php?vista=home">
+        <img src="./img/TRANSPARENTE.png" width="40" height="40" class="d-inline-block align-top" alt="">
+    </a>
         <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
         <span aria-hidden="true"></span>
         <span aria-hidden="true"></span>
         <span aria-hidden="true"></span>
         </a>
-        
+        <h2>INVENTARIO JCRACK </h2>
     </div>
-
     <div id="navbarBasicExample" class="navbar-menu">
         <div class="navbar-start">
 
@@ -61,6 +59,7 @@
                     </a>
                     <a href="https://www.facebook.com/profile.php?id=100077534802061" class="button is-link is-rounded">Facebook</a>
                     <a href="https://www.instagram.com/club_jovenes_crack/" class="button is-link is-rounded">instagram</a>
+                    
                 </div>
             </div>
         </div>
